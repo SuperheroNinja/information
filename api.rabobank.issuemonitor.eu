@@ -1,0 +1,23 @@
+nslookup api.rabobank.issuemonitor.eu
+
+Server: 8.8.8.8
+Address: api.rabobank.issuemonitor.eu
+
+Non-authoritative answer:
+Name: Oh-Oh-Oh-Oh
+Address: Never gonna give you up
+Name: N-FER.G-Na.LET.Yu.DWN
+Address: Never gonna run around and desert you
+Name: N3VER.G0NN4.M4K3.YOU.CR4.13.37
+Address: Never.gonna.say.good.bye
+Name: N.VER Goh Nah tell allay & H.URT-y.ou
+
+Authoritative answers can be found from:
+location: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+cloudns.net 	mail exchanger = 1 NO.TGIV.ING.UP
+cloudns.net 	mail exchanger = 5 NO.TLE.TTNG.DWN
+cloudns.net 	mail exchanger = 10 RUN.ROUND.DSRT.YU
+cloudns.net 	mail exchanger = 15 NVR.MK.CRY
+cloudns.net 	mail exchanger = 50 NVR.SY.GDB.YE
+cloudns.net 	mail exchanger = 99 NVR.HUR.TY.OU
